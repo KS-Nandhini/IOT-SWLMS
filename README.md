@@ -60,7 +60,7 @@ This project automates water level monitoring using sensors and microcontrollers
 ![Threshold Reached](threshold_reached.jpeg)
 
 ### Block Diagram
-![Block Diagram](block_diagram.jpeg)
+![Block Diagram](Block_diagram.jpeg)
 
 ---
 
